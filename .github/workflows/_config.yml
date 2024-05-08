@@ -1,0 +1,26 @@
+.
+├── _config.yml           # Configuration file for Jekyll
+├── _posts                # Directory for blog posts (Markdown files)
+|   ├── 2024-05-10-post1.md
+|   ├── 2024-05-15-post2.md
+|   └── ...
+├── _layouts              # Directory for HTML layouts
+|   ├── default.html      # Default layout for pages
+|   ├── post.html         # Layout for blog posts
+|   └── ...
+├── _includes             # Directory for reusable HTML snippets
+|   ├── header.html       # Header snippet
+|   ├── footer.html       # Footer snippet
+|   └── ...
+├── assets                # Directory for CSS, JavaScript, images, etc.
+|   ├── css
+|   |   └── style.css     # Custom CSS styles
+|   ├── js
+|   |   └── script.js     # JavaScript code
+|   └── img               # Directory for images
+|       └── ...
+├── _data                 # Directory for YAML or JSON data files
+|   └── ...
+├── about.md              # About page (Markdown)
+├── portfolio.md          # Portfolio page (Markdown)
+└── index.md              # Homepage (Markdown)
